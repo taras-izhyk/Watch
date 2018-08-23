@@ -1,0 +1,337 @@
+﻿'Watch.exe' (Win32): Loaded 'C:\Users\Administrator\source\repos\Watch\x64\Release\Watch.exe'. Symbols loaded.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Users\Administrator\Desktop\TarasIzhyk\OpenCV\libs\opencv\opencv\3.4.0\x64\vc14\bin\opencv_world340.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\comdlg32.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\shell32.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.17134.191_none_f957a2993090dc56\comctl32.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\windows.storage.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\profapi.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\powrprof.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\fltLib.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\msvfw32.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\avifil32.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\avicap32.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\concrt140.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\msacm32.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Unloaded 'C:\Windows\System32\winmm.dll'
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Unloaded 'C:\Windows\System32\winmm.dll'
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Unloaded 'C:\Windows\System32\winmmbase.dll'
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Unloaded 'C:\Windows\System32\winmmbase.dll'
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Unloaded 'C:\Windows\System32\winmmbase.dll'
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\clbcatq.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\devenum.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\setupapi.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\devobj.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\wintrust.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\msasn1.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\crypt32.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\msdmo.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\qcap.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\quartz.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\bcrypt.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\msctf.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\dwmapi.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\mfksproxy.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\atl.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\mfplat.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\RTWorkQ.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\mfsensorgroup.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\ksproxy.ax'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\ksuser.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\d3d9.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\policymanager.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\msvcp110_win.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\vidcap.ax'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\Kswdmcap.ax'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\mfc42.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\qedit.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.17134.191_none_2c2987968afb7f11\GdiPlus.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\ddraw.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\dxgi.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\dciman32.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\aticfx64.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\atiu9p64.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Unloaded 'C:\Windows\System32\atiu9p64.dll'
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\atiu9p64.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\igdumd64.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\atiumd64.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Unloaded 'C:\Windows\System32\igdumd64.dll'
+'Watch.exe' (Win32): Unloaded 'C:\Windows\System32\atiumd64.dll'
+'Watch.exe' (Win32): Unloaded 'C:\Windows\System32\atiu9p64.dll'
+'Watch.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'Watch.exe' (Win32): Unloaded 'C:\Windows\System32\aticfx64.dll'
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\aticfx64.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\atiu9p64.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Unloaded 'C:\Windows\System32\atiu9p64.dll'
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\atiu9p64.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\igdumd64.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\atiumd64.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Unloaded 'C:\Windows\System32\igdumd64.dll'
+'Watch.exe' (Win32): Unloaded 'C:\Windows\System32\atiumd64.dll'
+'Watch.exe' (Win32): Unloaded 'C:\Windows\System32\atiu9p64.dll'
+'Watch.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'Watch.exe' (Win32): Unloaded 'C:\Windows\System32\aticfx64.dll'
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\msyuv.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. Cannot find or open the PDB file.
+'Watch.exe' (Win32): Unloaded 'C:\Windows\System32\WinTypes.dll'
+'Watch.exe' (Win32): Unloaded 'C:\Windows\System32\WinTypes.dll'
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+Exception thrown at 0x00007FFB6992A388 in Watch.exe: Microsoft C++ exception: ipp::IwException at memory location 0x000000A8D79FEA2C.
+The thread 0x2330 has exited with code 0 (0x0).
+The thread 0x448 has exited with code 0 (0x0).
+The thread 0x3288 has exited with code 0 (0x0).
+The thread 0x59c has exited with code 0 (0x0).
+The thread 0x2c48 has exited with code 0 (0x0).
+The thread 0x1540 has exited with code 0 (0x0).
+The thread 0x3a0c has exited with code 0 (0x0).
+The thread 0x838 has exited with code 0 (0x0).
+The thread 0x37e0 has exited with code 0 (0x0).
+The thread 0x2568 has exited with code 0 (0x0).
+The thread 0x385c has exited with code 0 (0x0).
+The thread 0x2dfc has exited with code 0 (0x0).
+The thread 0x136c has exited with code 0 (0x0).
+The thread 0x1b8c has exited with code 0 (0x0).
+The thread 0x1e44 has exited with code 0 (0x0).
+The thread 0x3ba0 has exited with code 0 (0x0).
+The program '[5028] Watch.exe' has exited with code 0 (0x0).

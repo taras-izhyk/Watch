@@ -1,0 +1,21 @@
+﻿  source.cpp
+c:\users\administrator\source\repos\watch\watch\source.cpp(87): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\administrator\source\repos\watch\watch\source.cpp(100): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\administrator\source\repos\watch\watch\source.cpp(110): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\administrator\source\repos\watch\watch\source.cpp(115): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\administrator\source\repos\watch\watch\source.cpp(139): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\administrator\source\repos\watch\watch\source.cpp(180): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\administrator\source\repos\watch\watch\source.cpp(181): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\administrator\source\repos\watch\watch\source.cpp(182): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\administrator\source\repos\watch\watch\source.cpp(183): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\administrator\source\repos\watch\watch\source.cpp(184): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\administrator\source\repos\watch\watch\source.cpp(185): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\administrator\source\repos\watch\watch\source.cpp(196): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\source\repos\watch\watch\source.cpp(197): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\source\repos\watch\watch\source.cpp(233): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  0 of 331 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Watch.vcxproj -> C:\Users\Administrator\source\repos\Watch\x64\Release\Watch.exe

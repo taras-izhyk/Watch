@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2001: unresolved external symbol "void __cdecl cv::circle(class cv::debug_build_guard::_InputOutputArray const &,class cv::Point_<int>,int,class cv::Scalar_<double> const &,int,int,int)" (?circle@cv@@YAXAEBV_InputOutputArray@debug_build_guard@1@V?$Point_@H@1@HAEBV?$Scalar_@N@1@HHH@Z)
+C:\Users\Administrator\source\repos\Watch\x64\Debug\Watch.exe : fatal error LNK1120: 1 unresolved externals
